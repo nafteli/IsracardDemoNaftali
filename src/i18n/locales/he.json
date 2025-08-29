@@ -7,5 +7,12 @@
   "testing": "בדיקת תרגום",
   "variable": "משתנה: {{value}}",
   "plural_one": "ספר אחד",
-  "plural_other": "{{count}} ספרים"
+  "plural_other": "{{count}} ספרים",
+  "themeMode": "מצב ערכת נושא",
+  "lightMode": "מצב בהיר",
+  "darkMode": "מצב כהה",
+  "systemMode": "מצב מערכת",
+  "currentTheme": "ערכת נושא נוכחית",
+  "light": "בהיר",
+  "dark": "כהה"
 }
