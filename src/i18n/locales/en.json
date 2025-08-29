@@ -1,0 +1,11 @@
+{
+  "welcome": "Welcome",
+  "switchLanguage": "Switch Language",
+  "currentLanguage": "Current Language",
+  "hebrew": "עברית",
+  "english": "English",
+  "testing": "Translation Test",
+  "variable": "Variable: {{value}}",
+  "plural_one": "One book",
+  "plural_other": "{{count}} books"
+}

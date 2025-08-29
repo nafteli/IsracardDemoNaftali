@@ -1,0 +1,11 @@
+{
+  "welcome": "ברוכים הבאים",
+  "switchLanguage": "החלף שפה",
+  "currentLanguage": "השפה הנוכחית",
+  "hebrew": "עברית",
+  "english": "English",
+  "testing": "בדיקת תרגום",
+  "variable": "משתנה: {{value}}",
+  "plural_one": "ספר אחד",
+  "plural_other": "{{count}} ספרים"
+}
